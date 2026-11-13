@@ -34,5 +34,10 @@ This includes information on reporting issues, triaging issues, testing, transla
 ## Status checks
 
 * Alpha build status: [![view latest alpha builds](https://github.com/nvaccess/nvda/actions/workflows/testAndPublish.yml/badge.svg?branch=master)](https://github.com/nvaccess/nvda/actions/workflows/testAndPublish.yml?query=branch%3Amaster+event%3Apush)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fnvda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fnvda?ref=badge_shield)
 * Beta build status: [![view latest beta builds](https://github.com/nvaccess/nvda/actions/workflows/testAndPublish.yml/badge.svg?branch=beta)](https://github.com/nvaccess/nvda/actions/workflows/testAndPublish.yml?query=branch%3Abeta+event%3Apush)
 * CodeQL security analysis status (master): [![view CodeQL security analysis checks on master](https://github.com/nvaccess/nvda/actions/workflows/codeql.yml/badge.svg)](https://github.com/nvaccess/nvda/actions/workflows/codeql.yml)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fnvda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fnvda?ref=badge_large)
